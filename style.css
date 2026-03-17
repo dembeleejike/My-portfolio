@@ -19,6 +19,8 @@ body.dark {
 .align{
   display:flex;
 }
+.align a{
+  
 
 header {
   width: 100%;
@@ -57,6 +59,8 @@ nav{
 }
 #download{
   padding:10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .nav-links {
