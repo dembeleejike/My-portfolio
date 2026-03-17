@@ -53,6 +53,7 @@ nav{
   font-size: 1.5rem;
 }
 
+
 .nav-links {
   display: flex;
   list-style: none;
@@ -433,6 +434,9 @@ section {
   nav{ 
     display: flex;
     justify-content: space-evenly;
+  }
+  .github{
+    margin-top: 20px;
   }
   .hero { 
     flex-direction: column-reverse;
