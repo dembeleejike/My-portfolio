@@ -16,6 +16,9 @@ body.dark {
   background: #121212;
   color: #eee;
 }
+.align{
+  display:flex;
+}
 
 header {
   width: 100%;
@@ -531,6 +534,10 @@ section {
 
   .cta{
     padding:40px 15px;
+  }
+  .align{
+    display:grid;
+    grid-tempelate-column: 1fr;
   }
 .github{
     margin-top: 20px;
