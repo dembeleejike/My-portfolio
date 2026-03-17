@@ -532,7 +532,9 @@ section {
   .cta{
     padding:40px 15px;
   }
-
+.github{
+    margin-top: 20px;
+  }
   .cta-text{
     font-size:1.1rem;
   }
