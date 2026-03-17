@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   
-  const heroText = ["Web Developer","Computer Scientist","Aspiring Software Engineer"];
+  const heroText = ["Web Developer","Computer Scientist","Software Engineer"];
   let heroIndex = 0, heroLetter = 0;
   const typingSpeed = 120, erasingSpeed = 80, pauseTime = 1500;
   const heroElement = document.getElementById("typing");
